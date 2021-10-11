@@ -1,2 +1,2 @@
-# virginia-plan
+#  my try plan
 my first repository on github 
